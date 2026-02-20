@@ -1,0 +1,8 @@
+id=PixelForcePeakRefreshRate
+name=Force Peak Refresh Rate for Google Pixel
+version=26.2.21
+versionCode=20260221
+author=@16CharactersOnly
+description=Pixel强制高刷 | Force Peak Refresh Rate for Pixel.
+banner=banner.png
+axeronPlugin=12200
